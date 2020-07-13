@@ -1,7 +1,7 @@
 //Written by Timothy Dusek
 //8/28/19
 //MUST BE COMPILED WITH C++11 FLAG
-//compile with this command: g++ -std=c++11 hw1-timothydusek.cpp
+//compile with this command: g++ -std=c++11 BasicWebScraper.cpp.cpp
 #include <iostream>
 #include <unistd.h>
 #include <fstream>
